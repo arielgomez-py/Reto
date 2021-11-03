@@ -10,14 +10,10 @@
     height: 400px; 
     display: flex;
 }
-.icon {
-    width: 200px;
-    height: 200px;
+.bell {
+    font-size: 10rem;
     position: relative;
-}
-.icon img {
-    width: 200px;
-    height: 200px;
+    color: blue;
 }
 .circle {
     width: 70px;
@@ -25,7 +21,7 @@
     border-radius: 50%;
     background-color: red;
     position: absolute;
-    margin-left: 120px;
+    margin-left: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -35,10 +31,5 @@
     width: 40px;
     height: 30px;
     font-size: 30px;
-    color: white;
-    
-}
-.bell {
-    width: 40px;
-    height: 30px;
+    color: white;   
 }
