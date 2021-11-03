@@ -22,8 +22,6 @@
 .circle {
     width: 70px;
     height: 70px;
-    -moz-border-radius: 50%;
-    -webkit-border-radius: 50%;
     border-radius: 50%;
     background-color: red;
     position: absolute;
